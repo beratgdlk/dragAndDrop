@@ -1,2 +1,1 @@
-React Ve Typescript ile 
-react-beautiful-dnd paketiyle yapılandırılmış basit bir draggable todolist uygulaması
+Drag and drop to do list application made with React and Typescript
