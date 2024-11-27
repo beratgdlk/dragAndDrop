@@ -34,6 +34,17 @@ const AddBtn = styled.button`
     border-radius: 15px;
     font-weight: bold;
     background-color: #f97901;
+    transition: background-color 0.3s, transform 0.2s; // Geçiş efektleri eklendi
+
+    &:hover {
+        background-color: #e68a00; // Hover rengi
+        box-shadow: 0 5px 5px #000000;
+    }
+
+    &:active {
+        transform: scale(0.95); // Basılmış efekti
+    }
+}
 `
 function App() {
   const [items, setItems] = useState<Quote[]>([]);

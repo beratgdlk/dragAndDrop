@@ -35,6 +35,11 @@ body{
         
         &:hover{
             box-shadow: 0 10px 12px #000000;
+            transform: scale(1.05);
+        }
+
+        &:active {
+            transform: scale(0.95);
         }
 
         .order-content{
