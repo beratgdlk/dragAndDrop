@@ -1,7 +1,4 @@
-Here’s an updated and more detailed README file that includes **TypeScript** aspects:
-
----
-
+Here’s
 # Drag and Drop Web Application
 
 This project is a **Drag and Drop** application built with **TypeScript**, **HTML**, and **CSS**. It demonstrates how to implement drag-and-drop functionality with clean and type-safe TypeScript code.
