@@ -149,7 +149,3 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 For any questions or feedback, feel free to reach out to the repository owner:
 
 - GitHub: [beratgdlk](https://github.com/beratgdlk)
-
----
-
-Let me k
